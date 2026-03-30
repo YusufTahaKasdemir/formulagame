@@ -1,4 +1,4 @@
-# F1 2026: Efsane Geri Döndü
+# F1 Arcade Oyun 
 
 Tarayıcı üzerinde çalışan, **Three.js** tabanlı bir mini Formula 1 yarış oyunu. Proje; gerçek zamanlı 3B sahne oluşturma, dinamik pist üretimi, temel sürüş fiziği, HUD arayüzü, tur takibi ve çoklu kamera açıları gibi modern web tabanlı oyun bileşenlerini tek bir HTML dosyasında bir araya getirmektedir.
 
